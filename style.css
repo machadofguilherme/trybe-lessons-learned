@@ -44,12 +44,12 @@ body {
   display: inline-block;
 }
 
-#licoes_aprendidas, #licoes_a_aprender, #minha_foto {
+#licoes_aprendidas,#licoes_a_aprender,#minha_foto {
   margin-left: 50px;
   margin-top: 10px;
 }
 
-#artigo-aside article, #artigo-aside aside {
+#artigo-aside article,#artigo-aside aside {
   width: 300px;
   text-align: justify;
   margin: 15px 30px;
@@ -64,5 +64,5 @@ body {
   position: relative;
   top: 100px;
   width: 100%;
-  color: white; 
+  color: white;
 }
