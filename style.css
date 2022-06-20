@@ -14,6 +14,22 @@ body {
   color: white;
 }
 
+#cabecalho h1 {
+  position: relative;
+  top: 20px;
+}
+
 #minha_foto {
   width: 200px;
+}
+
+.listas {
+  display: inline-block;
+}
+
+#licoes_aprendidas,
+#licoes_a_aprender,
+#minha_foto {
+  margin-left: 50px;
+  margin-top: 10px;
 }
