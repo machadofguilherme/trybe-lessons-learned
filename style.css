@@ -10,7 +10,7 @@ body {
 #cabecalho {
   background-color: red;
   text-align: center;
-  height: 100px;
+  height: 50px;
   color: white;
   position: fixed;
   top: 0;
@@ -19,12 +19,14 @@ body {
 
 #cabecalho h1 {
   position: relative;
-  top: 20px;
+  top: 10px;
+  font-size: 20px;
 }
 
 #minha_foto {
   padding-top: 70px;
   width: 200px;
+  border-radius: 5%;
 }
 
 #um a {
@@ -49,14 +51,29 @@ body {
   margin-top: 10px;
 }
 
+article p {
+  width: 300px;
+  text-align: justify;
+  margin: 15px 30px;
+}
+
 #rodape {
   background-color: red;
   height: 18px;
   padding: 10px 0;
   text-align: center;
   margin-top: 10px;
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  top: 100px;
   width: 100%;
   color: white;
+}
+
+#aside {
+  width: 300px;
+  text-align: right;
+  float: right;
+  position: relative;
+  bottom: 200px;
+  margin-right: 100px;
 }
