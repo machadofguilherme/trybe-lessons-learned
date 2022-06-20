@@ -49,7 +49,7 @@ body {
   margin-top: 10px;
 }
 
-#artigo-aside article,#artigo-aside aside {
+.artigo-aside {
   width: 300px;
   text-align: justify;
   margin: 15px 30px;
