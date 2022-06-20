@@ -51,11 +51,12 @@ body {
   margin-top: 10px;
 }
 
-article p,
-aside p {
+#artigo-aside article,
+#artigo-aside aside {
   width: 300px;
   text-align: justify;
   margin: 15px 30px;
+  display: inline-block;
 }
 
 #rodape {
