@@ -51,16 +51,12 @@ body {
 
 #rodape {
   background-color: red;
-  height: 70px;
+  height: 18px;
+  padding: 10px 0;
   text-align: center;
   margin-top: 10px;
   position: absolute;
   bottom: 0;
   width: 100%;
   color: white;
-}
-
-#rodape p {
-  position: relative;
-  top: 20px;
 }
