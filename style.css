@@ -51,7 +51,8 @@ body {
   margin-top: 10px;
 }
 
-article p {
+article p,
+aside {
   width: 300px;
   text-align: justify;
   margin: 15px 30px;
@@ -67,13 +68,4 @@ article p {
   top: 100px;
   width: 100%;
   color: white;
-}
-
-#aside {
-  width: 300px;
-  text-align: right;
-  float: right;
-  position: relative;
-  bottom: 200px;
-  margin-right: 100px;
 }
