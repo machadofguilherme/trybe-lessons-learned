@@ -27,6 +27,17 @@ body {
   width: 200px;
 }
 
+#um a {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: green;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  font-weight: 500;
+  color: white;
+}
+
 .listas {
   display: inline-block;
 }
@@ -46,12 +57,10 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
+  color: white;
 }
 
-#rodape a {
-  color: white;
-  text-decoration: none;
-  cursor: pointer;
+#rodape p {
   position: relative;
   top: 20px;
 }
